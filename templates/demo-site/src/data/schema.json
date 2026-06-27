@@ -1,0 +1,34 @@
+{
+  "businessName": "string",
+  "tagline": "string",
+  "heroImage": "string (url)",
+  "about": "string",
+  "services": [
+    {
+      "name": "string",
+      "description": "string",
+      "price": "string (optional)"
+    }
+  ],
+  "location": {
+    "address": "string",
+    "mapEmbedUrl": "string (google maps embed url)"
+  },
+  "reviews": [
+    {
+      "author": "string",
+      "text": "string",
+      "rating": "number (1-5)"
+    }
+  ],
+  "contact": {
+    "whatsapp": "string (phone number)",
+    "phone": "string",
+    "email": "string",
+    "hours": "string"
+  },
+  "colors": {
+    "primary": "string (hex)",
+    "secondary": "string (hex)"
+  }
+}
