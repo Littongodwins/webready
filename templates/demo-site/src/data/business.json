@@ -1,0 +1,49 @@
+{
+  "businessName": "Kizito's Family Restaurant",
+  "tagline": "The Home of Authentic Luwombo in Kampala",
+  "heroImage": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&q=80&w=2070",
+  "about": "We have been serving the best traditional Ugandan dishes since 1995. Our Luwombo is famous across Kampala for its rich flavor and authentic preparation.",
+  "services": [
+    {
+      "name": "Chicken Luwombo",
+      "description": "Slow-cooked chicken in peanut sauce, served with matooke.",
+      "price": "25,000 UGX"
+    },
+    {
+      "name": "Beef Luwombo",
+      "description": "Tender beef steamed in banana leaves with traditional spices.",
+      "price": "22,000 UGX"
+    },
+    {
+      "name": "Fresh Tilapia",
+      "description": "Deep fried or stewed tilapia from Lake Victoria.",
+      "price": "30,000 UGX"
+    }
+  ],
+  "location": {
+    "address": "Plot 45, Kampala Road, Kampala, Uganda",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.753305416076!2d32.5788!3d0.3136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177dbc80f7808c1d%3A0x3e47088f1d8c1e0!2sKampala%20Road!5e0!3m2!1sen!2sug!4v1719480000000!5m2!1sen!2sug"
+  },
+  "reviews": [
+    {
+      "author": "Sarah Namubiru",
+      "text": "The best Luwombo I've ever had! The service is also very fast.",
+      "rating": 5
+    },
+    {
+      "author": "John Okello",
+      "text": "Authentic taste and great atmosphere. Highly recommended for tourists.",
+      "rating": 4
+    }
+  ],
+  "contact": {
+    "whatsapp": "256700123456",
+    "phone": "+256 700 123 456",
+    "email": "kizitorestaurant@gmail.com",
+    "hours": "Mon-Sat: 10:00 AM - 10:00 PM"
+  },
+  "colors": {
+    "primary": "#D97706",
+    "secondary": "#1F2937"
+  }
+}
