@@ -1,49 +1,93 @@
 {
-  "businessName": "Kizito's Family Restaurant",
-  "tagline": "The Home of Authentic Luwombo in Kampala",
-  "heroImage": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&q=80&w=2070",
-  "about": "We have been serving the best traditional Ugandan dishes since 1995. Our Luwombo is famous across Kampala for its rich flavor and authentic preparation.",
+  "businessName": "Igulu Foundation Uganda",
+  "tagline": "SUPPORT TO CAUSE SMILE",
+  "heroImage": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "about": "Igulu Foundation is a non-governmental organization in Jinja, Uganda, dedicated to supporting vulnerable children, single mothers, and sustainable community development.",
+  "aboutPage": {
+    "title": "About Igulu Foundation",
+    "content": "Founded with a passion for humanitarian service, Igulu Foundation has been at the forefront of community transformation in Jinja. We believe that every individual deserves a chance at a better life, and we work tirelessly to provide the necessary support and resources to make this a reality.",
+    "mission": "To provide education, healthcare, and economic empowerment to vulnerable children and marginalized women through sustainable community-led initiatives.",
+    "vision": "A thriving Ugandan community where every child is educated and every woman is economically self-reliant."
+  },
   "services": [
     {
-      "name": "Chicken Luwombo",
-      "description": "Slow-cooked chicken in peanut sauce, served with matooke.",
-      "price": "25,000 UGX"
+      "name": "Education Sponsorship",
+      "description": "We support children from poor backgrounds with school fees and materials.",
+      "content": "Education is the key to breaking the cycle of poverty. Our sponsorship program covers tuition, uniforms, and stationery for over 100 children in Jinja."
     },
     {
-      "name": "Beef Luwombo",
-      "description": "Tender beef steamed in banana leaves with traditional spices.",
-      "price": "22,000 UGX"
+      "name": "Children's Home",
+      "description": "Providing a safe haven for orphaned and abandoned children.",
+      "content": "Our home provides more than just shelter; it provides a family. We offer nutrition, medical care, and emotional support in a loving environment."
+    }
+  ],
+  "programs": [
+    {
+      "id": "edu-sponsorship",
+      "name": "Education Sponsorship",
+      "description": "Breaking poverty through education.",
+      "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "content": "Our Education Sponsorship program identifies talented but underprivileged children and ensures they stay in school. We partner with local schools to monitor their progress and provide additional tutoring where needed."
     },
     {
-      "name": "Fresh Tilapia",
-      "description": "Deep fried or stewed tilapia from Lake Victoria.",
-      "price": "30,000 UGX"
+      "id": "agriculture",
+      "name": "Sustainable Agriculture",
+      "description": "Farming for a better future.",
+      "image": "https://images.unsplash.com/photo-1500651230702-0e2d8a49d4ad?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "content": "We train local farmers in sustainable techniques to increase crop yields and ensure food security for their families. Our demonstration farm serves as a learning hub for the entire community."
+    }
+  ],
+  "team": [
+    {
+      "name": "Musasizi Hamuza",
+      "role": "Founder & Director",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+      "bio": "Hamuza has over 10 years of experience in community development and is passionate about child welfare."
+    },
+    {
+      "name": "Nabirye Sarah",
+      "role": "Program Coordinator",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+      "bio": "Sarah manages our day-to-day operations and ensures all programs are meeting their targets."
+    }
+  ],
+  "news": [
+    {
+      "id": "goat-birth",
+      "title": "Our lovely goat Kiwaka gave birth to two male kids!",
+      "date": "June 15, 2026",
+      "summary": "Exciting news from our farm! We have two new additions to our livestock family.",
+      "content": "We are thrilled to announce that Kiwaka, one of our favorite goats, successfully gave birth to two healthy male kids this morning. This is a great boost for our sustainable agriculture project, which helps provide milk and income for our children's home.",
+      "image": "https://images.unsplash.com/photo-1524024973431-2ad916746881?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "hashim-surgery",
+      "title": "Hashim's Successful Palate Surgery",
+      "date": "May 20, 2026",
+      "summary": "A life-changing surgery for one of our children.",
+      "content": "Thanks to our generous donors, Hashim was able to undergo surgery for his cleft palate. The procedure was a success, and he is now recovering well. This surgery will allow him to eat and speak properly, giving him a much brighter future.",
+      "image": "https://images.unsplash.com/photo-1584515933487-779824d29309?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     }
   ],
   "location": {
-    "address": "Plot 45, Kampala Road, Kampala, Uganda",
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.753305416076!2d32.5788!3d0.3136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177dbc80f7808c1d%3A0x3e47088f1d8c1e0!2sKampala%20Road!5e0!3m2!1sen!2sug!4v1719480000000!5m2!1sen!2sug"
+    "address": "Plot 12, Main Street, Jinja, Uganda",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15959.027663242634!2d33.2023!3d0.4244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177e7b6d6a6a6a6a%3A0x6a6a6a6a6a6a6a6a!2sJinja!5e0!3m2!1sen!2sug!4v1624800000000!5m2!1sen!2sug"
   },
   "reviews": [
     {
-      "author": "Sarah Namubiru",
-      "text": "The best Luwombo I've ever had! The service is also very fast.",
+      "author": "John Doe",
+      "text": "Igulu Foundation is doing amazing work in Jinja. I've seen firsthand the impact of their education program.",
       "rating": 5
-    },
-    {
-      "author": "John Okello",
-      "text": "Authentic taste and great atmosphere. Highly recommended for tourists.",
-      "rating": 4
     }
   ],
   "contact": {
-    "whatsapp": "256700123456",
-    "phone": "+256 700 123 456",
-    "email": "kizitorestaurant@gmail.com",
-    "hours": "Mon-Sat: 10:00 AM - 10:00 PM"
+    "whatsapp": "256762763479",
+    "phone": "+256 762 763479",
+    "email": "igulufoundation@gmail.com",
+    "hours": "Mon - Fri: 8:00 AM - 5:00 PM"
   },
   "colors": {
-    "primary": "#D97706",
-    "secondary": "#1F2937"
+    "primary": "#2e7d32",
+    "secondary": "#fbc02d"
   }
 }
