@@ -2,12 +2,46 @@
   "businessName": "string",
   "tagline": "string",
   "heroImage": "string (url)",
-  "about": "string",
+  "about": "string (short summary for home)",
+  "aboutPage": {
+    "title": "string",
+    "content": "string",
+    "mission": "string",
+    "vision": "string"
+  },
   "services": [
     {
       "name": "string",
       "description": "string",
-      "price": "string (optional)"
+      "price": "string (optional)",
+      "content": "string (optional, for detail page)"
+    }
+  ],
+  "programs": [
+    {
+      "id": "string",
+      "name": "string",
+      "description": "string",
+      "image": "string (url)",
+      "content": "string"
+    }
+  ],
+  "team": [
+    {
+      "name": "string",
+      "role": "string",
+      "image": "string (url)",
+      "bio": "string"
+    }
+  ],
+  "news": [
+    {
+      "id": "string",
+      "title": "string",
+      "date": "string",
+      "summary": "string",
+      "content": "string",
+      "image": "string (url)"
     }
   ],
   "location": {
